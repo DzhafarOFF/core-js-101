@@ -93,7 +93,7 @@ function timeSpanToString(startDate, endDate) {
  *    Date.UTC(2016,3,5,21, 0) => Math.PI/2
  */
 function angleBetweenClockHands(/* date */) {
-  // console.log('ПОШЛА НАХУЙ ЭТА ЕБУЧАЯ ЗАДАЧА, КОТОРАЯ ОТНЯЛА У МЕНЯ МОЕ ЕБУЧЕЕ ВРЕМЯ', date);
+  throw new Error('Not implemented');
 }
 
 
